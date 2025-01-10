@@ -45,6 +45,7 @@ user_0 = {
  'first': 'enrico',
  'last': 'fermi',
 }
+del user_0['username'] # 删除对应的k-v
 for key, value in user_0.items():
     print(f"\nkey is :{key}")
     print(f"value is :{value}")

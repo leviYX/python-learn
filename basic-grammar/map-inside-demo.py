@@ -28,5 +28,6 @@ mate_class = {
     "teacher":"mr cat",
     "student":[{"name":"levi","age":18},{"name":"dyn","age":20}]
 }
+# del mate_class 删除这个对象，直接回收
 for student in mate_class["student"]:
     print(student)
