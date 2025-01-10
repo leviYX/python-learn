@@ -1,9 +1,14 @@
 import json
 
 def write_file_override(path, *datas):
-    with open(path, 'w') as f:
-        for data in datas:
-            f.write(data)
+    try:
+        with open(path, 'w') as f:
+            for data in datas:
+                f.write(data)
+    except FileNotFoundError:
+        print('file not found')
+    else:
+        print('file written')
 
 def write_file_append(path, *datas):
     with open(path, 'a') as f:
