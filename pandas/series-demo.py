@@ -11,7 +11,7 @@ print(keys)
 
 obj2 = pd.Series(['one', 'two', 'three', 'four'],index=['1', '2', '3', '4'])
 print(obj2)
-print(obj2['1'])
+print(obj2[['1','2']])
 print("****************************")
 data = {
     'state': ['Ohio', 'Ohio', 'Ohio', 'Nevada', 'Nevada', 'Nevada'],

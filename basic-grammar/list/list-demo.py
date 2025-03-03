@@ -10,3 +10,4 @@ names1.remove('tom')
 print(names1)
 pop_item = names1.pop()
 print(pop_item)
+
