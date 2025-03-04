@@ -9,4 +9,5 @@ def initMap():
     return res
 res = initMap()
 print(res)
-pprint.pprint(initMap())
+pprint.pprint(res)
+print(pprint.pformat(res))
