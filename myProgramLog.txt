@@ -1,0 +1,25 @@
+2025-03-06 11:35:04,975 - DEBUG - End of program
+2025-03-06 11:40:09,059 - INFO - x is 1,y is -2, boxName is 第四象限1
+2025-03-06 11:40:09,059 - INFO - x is 3,y is 4, boxName is 第四象限2
+2025-03-06 11:40:09,059 - INFO - x is 5,y is 6, boxName is 第四象限3
+2025-03-06 11:40:09,059 - INFO - x is 7,y is 8, boxName is 第四象限4
+2025-03-06 11:40:20,786 - INFO - x is 1,y is -2, boxName is 第四象限1
+2025-03-06 11:40:20,786 - INFO - x is 3,y is 4, boxName is 第四象限2
+2025-03-06 11:40:20,786 - INFO - x is 5,y is 6, boxName is 第四象限3
+2025-03-06 11:40:20,786 - INFO - x is 7,y is 8, boxName is 第四象限4
+2025-03-06 11:43:00,278 - INFO - x is 1,y is -2, boxName is 第四象限1
+2025-03-06 11:43:00,278 - INFO - x is 3,y is 4, boxName is 第四象限2
+2025-03-06 11:43:00,278 - INFO - x is 5,y is 6, boxName is 第四象限3
+2025-03-06 11:43:00,278 - INFO - x is 7,y is 8, boxName is 第四象限4
+2025-03-06 11:43:15,135 - INFO - x is 1,y is -2, boxName is 第四象限1
+2025-03-06 11:43:15,135 - INFO - x is 3,y is 4, boxName is 第四象限2
+2025-03-06 11:43:15,135 - INFO - x is 5,y is 6, boxName is 第四象限3
+2025-03-06 11:43:15,135 - INFO - x is 7,y is 8, boxName is 第四象限4
+2025-03-06 11:43:22,700 - INFO - x is 1,y is -2, boxName is 第四象限1
+2025-03-06 11:43:22,700 - INFO - x is 3,y is 4, boxName is 第四象限2
+2025-03-06 11:43:22,701 - INFO - x is 5,y is 6, boxName is 第四象限3
+2025-03-06 11:43:22,701 - INFO - x is 7,y is 8, boxName is 第四象限4
+2025-03-06 11:43:51,294 - INFO - x is 1,y is -2, boxName is 第四象限1
+2025-03-06 11:43:57,703 - INFO - x is 3,y is 4, boxName is 第四象限2
+2025-03-06 11:43:58,283 - INFO - x is 5,y is 6, boxName is 第四象限3
+2025-03-06 11:43:58,758 - INFO - x is 7,y is 8, boxName is 第四象限4
